@@ -6,5 +6,5 @@
 <li>Navigate to the folder and type 'make' in terminal</li>
 <li>Execute a.out</li>
 </ol>
-
+<p>In order to compile this, you need to have glut installed</p>
 <h2>Enjoy!</h2>
