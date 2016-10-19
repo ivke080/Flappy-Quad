@@ -4,7 +4,7 @@
 <h2>How to compile </h2>
 <ol>
 <li>Navigate to the folder and type 'make' in terminal</li>
-<li>Execute a.out ~ ./a.out </li>
+<li>Execute a.out</li>
 </ol>
 
 <h2>Enjoy!</h2>
