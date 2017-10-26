@@ -97,7 +97,6 @@ void tick(int id) {
     }
   }
   else {
-    printf("%.2f\n", dead_for);
     dead_for += glutGet(GLUT_ELAPSED_TIME);
     if (dead_for > 200000) // 2 seconds
     {
