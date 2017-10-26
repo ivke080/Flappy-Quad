@@ -15,6 +15,6 @@
 #define BOTTOM_PIPE 100
 #define TOP_PIPE 300
 
-
+float dead_for;
 
 #endif

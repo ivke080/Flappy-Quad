@@ -7,6 +7,7 @@ typedef struct {
   float xvel, yvel; /* x and y velocity */
   float jump; /* jump velocity */
   float size;
+  int alive;
 } Player;
 
 void update_player(Player *player);
